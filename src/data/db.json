@@ -109,6 +109,116 @@
         "duracion": "1h 45min",
         "asientosDisponibles": 20,
         "asientoOcupados":{}
+      },
+      {
+        "id": 11,
+        "origen": "Bogotá",
+        "destino": "Medellín",
+        "horaSalida": "13:00",
+        "horaLlegada": "14:30",
+        "precio": 250000,
+        "duracion": "1h 30min",
+        "asientosDisponibles": 20,
+        "asientoOcupados":{}
+      },
+      {
+        "id": 12,
+        "origen": "Medellín",
+        "destino": "Cartagena",
+        "horaSalida": "18:30",
+        "horaLlegada": "20:15",
+        "precio": 350000,
+        "duracion": "1h 45min",
+        "asientosDisponibles": 20,
+        "asientoOcupados":{}
+      },
+      {
+        "id": 13,
+        "origen": "Bogotá",
+        "destino": "Cali",
+        "horaSalida": "7:00",
+        "horaLlegada": "8:30",
+        "precio": 280000,
+        "duracion": "1h 30min",
+        "asientosDisponibles": 20,
+        "asientoOcupados":{}
+      },
+      {
+        "id": 14,
+        "origen": "Cali",
+        "destino": "Barranquilla",
+        "horaSalida": "10:00",
+        "horaLlegada": "12:30",
+        "precio": 320000,
+        "duracion": "2h 30min",
+        "asientosDisponibles": 20,
+        "asientoOcupados":{}
+      },
+      {
+        "id": 15,
+        "origen": "Medellín",
+        "destino": "Santa Marta",
+        "horaSalida": "22:45",
+        "horaLlegada": "24:30",
+        "precio": 290000,
+        "duracion": "1h 45min",
+        "asientosDisponibles": 20,
+        "asientoOcupados":{}
+      },
+      {
+        "id": 16,
+        "origen": "Cali",
+        "destino": "Bogotá",
+        "horaSalida": "16:15",
+        "horaLlegada": "17:45",
+        "precio": 240000,
+        "duracion": "1h 30min",
+        "asientosDisponibles": 20,
+        "asientoOcupados":{}
+      },
+      {
+        "id": 17,
+        "origen": "Barranquilla",
+        "destino": "Cartagena",
+        "horaSalida": "5:45",
+        "horaLlegada": "6:30",
+        "precio": 180000,
+        "duracion": "45min",
+        "asientosDisponibles": 20,
+        "asientoOcupados":{}
+      },
+      {
+        "id": 18,
+        "origen": "Bogotá",
+        "destino": "San Andrés",
+        "horaSalida": "9:30",
+        "horaLlegada": "11:15",
+        "precio": 420000,
+        "duracion": "1h 45min",
+        "asientosDisponibles": 20,
+        "asientoOcupados":{}
+      },
+      {
+        "id": 19,
+        "origen": "Santa Marta",
+        "destino": "Cali",
+        "horaSalida": "18:00",
+        "horaLlegada": "19:45",
+        "precio": 320000,
+        "duracion": "1h 45min",
+        "asientosDisponibles": 20,
+        "asientoOcupados":{}
+      },
+      {
+        "id": 20,
+        "origen": "Cartagena",
+        "destino": "Bogotá",
+        "horaSalida": "9:30",
+        "horaLlegada": "11:15",
+        "precio": 280000,
+        "duracion": "1h 45min",
+        "asientosDisponibles": 20,
+        "asientoOcupados":{}
       }
     ],
 
