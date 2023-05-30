@@ -110,6 +110,37 @@
         "asientosDisponibles": 20,
         "asientoOcupados":{}
       }
+    ],
+
+    "ciudades": [
+      {
+      "id":1,
+      "ciudad":"Bogotá"
+    },
+    {
+      "id":2,
+      "ciudad":"Medellín"
+    },
+    {
+      "id":3,
+      "ciudad":"Cartagena"
+    },
+    {
+      "id":4,
+      "ciudad":"Cali"
+    },
+    {
+      "id":5,
+      "ciudad":"Barranquilla"
+    },
+    {
+      "id":6,
+      "ciudad":"Santa Marta"
+    },
+    {
+      "id":7,
+      "ciudad":"San Andrés"
+    }  
     ]
 }
       
