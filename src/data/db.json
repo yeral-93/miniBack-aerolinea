@@ -637,6 +637,28 @@
         "duracion": "1 38min",
         "asientosDisponibles": 20,
         "asientoOcupados":{}
+      },
+      {
+        "id": 59,
+        "origen": "Barranquilla",
+        "destino": "Santa Marta",
+        "horaSalida": "04:10",
+        "horaLlegada": "05:12",
+        "precio": 300100,
+        "duracion": "1 2min",
+        "asientosDisponibles": 20,
+        "asientoOcupados":{}
+      },
+      {
+        "id": 60,
+        "origen": "Barranquilla",
+        "destino": "Santa Marta",
+        "horaSalida": "12:00",
+        "horaLlegada": "13:02",
+        "precio": 300100,
+        "duracion": "1 2min",
+        "asientosDisponibles": 20,
+        "asientoOcupados":{}
       }
       
     ],
